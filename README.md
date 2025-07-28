@@ -36,6 +36,7 @@ Because… why not? Tech should be fun. This experiment proves even the most imp
 Built by **Rafael**  
 Also got some help with copilot a bit  
 Tested in the outer limits of sanity
+Special Thanks: Copilot/For helping with this :D
 
 ---
 
