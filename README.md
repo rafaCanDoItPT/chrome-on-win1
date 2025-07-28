@@ -34,7 +34,7 @@ Because… why not? Tech should be fun. This experiment proves even the most imp
 
 ## 🧠 Credits
 Built by **Rafael**  
-Assisted by a very curious AI companion  
+Also got some help with copilot a bit  
 Tested in the outer limits of sanity
 
 ---
